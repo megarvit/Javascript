@@ -6,4 +6,4 @@ console.log(4 === 4.0);
 
 console.log(4 != 4);
 console.log('hello' == "Hello");
-console.log('hello' == "hello");
+console.log('hello' == "hello"); // 
